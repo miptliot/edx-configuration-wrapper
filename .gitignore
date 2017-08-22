@@ -1,0 +1,4 @@
+.ansible-retry/*.retry
+venv/
+inventory/
+pw/

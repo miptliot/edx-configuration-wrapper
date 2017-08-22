@@ -1,0 +1,4 @@
+[submodule "edx-configuration"]
+	path = edx-configuration
+	url = git@github.com:miptliot/edx-configuration.git
+	branch = npoed-ficus

@@ -1,4 +1,5 @@
 .ansible-retry/*.retry
 venv/
+group_vars
 inventory
 pw

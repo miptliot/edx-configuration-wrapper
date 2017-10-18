@@ -2,4 +2,6 @@
 venv/
 group_vars
 inventory
+lookup_plugins
+maps
 pw
